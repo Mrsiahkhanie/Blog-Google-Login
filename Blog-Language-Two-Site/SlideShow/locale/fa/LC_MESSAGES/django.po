@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-03 08:19+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: SlideShow/apps.py:6 SlideShow/models.py:30
+msgid "Slide Show"
+msgstr "اسلاید شو"
+
+#: SlideShow/models.py:8
+msgid "title"
+msgstr "عنوان"
+
+#: SlideShow/models.py:9
+msgid "image"
+msgstr "عکس"
+
+#: SlideShow/models.py:10
+msgid "publish"
+msgstr "زمان انتشار"
+
+#: SlideShow/models.py:13 SlideShow/models.py:26
+msgid "status"
+msgstr "وضعیت"
+
+#: SlideShow/models.py:17 SlideShow/models.py:25
+msgid "Article"
+msgstr "مقالات"
+
+#: SlideShow/models.py:18 SlideShow/templates/SlideShow/home.html:88
+msgid "Articles"
+msgstr "مقالات"
+
+#: SlideShow/models.py:31
+msgid "Slide Shows"
+msgstr "اسلاید شو ها"
+
+#: SlideShow/templates/SlideShow/home.html:17
+msgid "Django"
+msgstr "جنگو"
+
+#: SlideShow/templates/SlideShow/home.html:57
+msgid "django"
+msgstr "جنگو"
+
+#: SlideShow/templates/SlideShow/home.html:57
+msgid "and"
+msgstr "و"
+
+#: SlideShow/templates/SlideShow/home.html:62
+msgid "EN"
+msgstr "انگلیسی"
+
+#: SlideShow/templates/SlideShow/home.html:63
+msgid "FA"
+msgstr "فارسی"
+
+#: SlideShow/templates/SlideShow/home.html:68
+msgid "logout"
+msgstr "خروج"
+
+#: SlideShow/templates/SlideShow/home.html:68
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: SlideShow/templates/SlideShow/home.html:71
+msgid "Login/Sign-up with Google"
+msgstr "ثبت نام/ورود با گوگل"
+
+#: SlideShow/templates/SlideShow/home.html:101
+msgid "Mohammad Mahdi"
+msgstr "محمد مهدی"
+
+#: SlideShow/templates/SlideShow/slideshow.html:15
+msgid "Play"
+msgstr "اجرا"
+
+#: SlideShow/templates/SlideShow/slideshow.html:16
+msgid "Stop"
+msgstr "توقف"
